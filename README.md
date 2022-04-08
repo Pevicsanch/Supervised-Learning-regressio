@@ -1,5 +1,5 @@
 # Supervised-Learning-regressio
-## IT Academy - Data Science Itinerary: Training set and testing set
+## IT Academy - Data Science Itinerary: Regression Models
 
 *S09-T02: Practicing Regression Models with scikit-learn*
 
